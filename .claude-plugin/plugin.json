@@ -1,0 +1,5 @@
+{
+  "name": "gh-scout",
+  "description": "Explore and understand GitHub repositories using the gh CLI. Includes a skill with 23 gh commands across 7 categories.",
+  "version": "1.0.0"
+}

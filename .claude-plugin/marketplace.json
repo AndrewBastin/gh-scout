@@ -1,0 +1,13 @@
+{
+  "name": "gh-scout",
+  "owner": {
+    "name": "Andrew Bastin"
+  },
+  "plugins": [
+    {
+      "name": "gh-scout",
+      "source": "./",
+      "description": "Explore and understand GitHub repositories using the gh CLI. Includes a skill with 23 gh commands across 7 categories."
+    }
+  ]
+}
